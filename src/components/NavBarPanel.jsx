@@ -12,7 +12,7 @@ const NavBar = () => {
     <Navbar expand="lg" className="NavB fixed-header">
       <Container fluid>
         <Navbar.Brand as={Link} to="/" className="text-white font-weight-bold"> 
-          <span className="shopping">Shopping Cart</span>
+          <span className="shopping">ShopCART</span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" className="bg-light" />
         <Navbar.Collapse className="justify-content-end">
